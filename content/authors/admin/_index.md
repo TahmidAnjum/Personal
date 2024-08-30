@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Tahmid Anjum Bin Haroon
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Tahmid Anjum Bin Haroon
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tahmid Anjum
+last_name: Bin Haroon
 
 # Status emoji
 status:
