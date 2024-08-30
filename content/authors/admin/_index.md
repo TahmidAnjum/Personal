@@ -3,7 +3,7 @@
 title: Tahmid Anjum Bin Haroon
 
 # Name pronunciation (optional)
-name_pronunciation: Tahmid Anjum Bin Haroon
+# name_pronunciation: Tahmid Anjum Bin Haroon
 
 # Full name (for SEO)
 first_name: Tahmid Anjum
@@ -20,9 +20,9 @@ superuser: true
 role: Developer | CS Enthusiast
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+#organizations:
+#  - name: GenCoin
+#    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,7 +35,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/TahmidAnjum
   - icon: brands/linkedin
-    url: https://www.linkedin.com/tahmid-anjum-b-251431106
+    url: https://www.linkedin.com/in/tahmid-anjum-b-251431106
 
 education:
   - area: PhD Artificial Intelligence
