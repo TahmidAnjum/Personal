@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Developer | CS Enthusiast
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,16 +28,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:tahmidanjum320@exagmailmple.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/facebook
+    url: https://facebook.com/tahmid.anjum.31
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/TahmidAnjum
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/tahmid-anjum-b-251431106
 
 education:
   - area: PhD Artificial Intelligence
